@@ -2,8 +2,6 @@
     ==================================================
     Containers and Packs
     ==================================================
-    Name   : Nozhin Azarpanah
-    Date   : March 17, 2022
 */
 
 #ifndef SDDS_CONTAINER_H 
