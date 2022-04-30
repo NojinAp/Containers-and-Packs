@@ -2,8 +2,6 @@
     ==================================================
     Containers and Packs
     ==================================================
-    Name   : Nozhin Azarpanah
-    Date   : March 17, 2022
 */
 
 #define _CRT_SECURE_NO_WARNINGS
